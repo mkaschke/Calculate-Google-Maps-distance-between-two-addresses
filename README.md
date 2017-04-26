@@ -2,7 +2,8 @@ This little snippet of code will calculate the distance between two addresses wi
 
 This is what you have to do: 
 
-* Open MS Excel and press Alt + F11 to open the VBA editor Right click on "Microsoft Excel Object" and create  a new Modul
+* Open MS Excel and press Alt + F11 to open the VBA editor 
+* Right click on "Microsoft Excel Object" and create  a new Modul
 * Copy the code into the Modul
 
 To use the code:  
