@@ -11,5 +11,4 @@ To use the code:
 ```
 The "/1000" is just for the conversion km to meter
 
-
-http://analystcave.com/excel-calculate-distances-between-addresses/
+Source: http://analystcave.com/excel-calculate-distances-between-addresses/
